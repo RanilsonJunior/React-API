@@ -16,6 +16,8 @@
 #### Comando: npx eslint --init (não precisa instalar)
 #### Procurar por erros no react: npx eslint src/**/*.js --fix (precisa instalar)
 
+### Criar arquivo .babelrc.json
+
 
 
     
